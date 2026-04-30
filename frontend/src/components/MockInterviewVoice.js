@@ -51,7 +51,7 @@ function MockInterviewVoice() {
   const user = JSON.parse(localStorage.getItem("user") || "{}");
   const userId = user?.email || "guest";
 
-  const API = "http://localhost:5000/api/interview";
+  const API = "https://devconnect-pro-v2.onrender.com/api/interview";
   
   // eslint-disable-next-line react-hooks/exhaustive-deps
   useEffect(() => {
@@ -154,7 +154,7 @@ function MockInterviewVoice() {
 
   const endInterview = async () => {
     try {
-      await axios.post("http://localhost:5000/api/interview/report", {
+      await axios.post("https://devconnect-pro-v2.onrender.com/api/interview/report", {
         userId,
       });
     } catch (err) {

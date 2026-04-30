@@ -19,7 +19,7 @@ function Interview() {
 
   const chatRef = useRef(null);
 
-  const API = "http://localhost:5000";
+  const API = "https://devconnect-pro-v2.onrender.com";
 
   const hasResume = () => Boolean(resume && resume.text);
 

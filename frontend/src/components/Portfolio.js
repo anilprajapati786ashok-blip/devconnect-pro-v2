@@ -2,7 +2,7 @@ import React, { useState, useEffect } from "react";
 import axios from "axios";
 import { motion } from "framer-motion";
 
-const API = "http://localhost:5000";
+const API = "https://devconnect-pro-v2.onrender.com";
 
 function Portfolio({ userId }) {
   const [name, setName] = useState("");

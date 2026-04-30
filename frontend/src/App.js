@@ -94,7 +94,7 @@ function App() {
   const [isLogin, setIsLogin] = useState(false);
   const [activeTab, setActiveTab] = useState("dashboard");
 
-  const API = "http://localhost:5000";
+  const API = "https://devconnect-pro-v2.onrender.com";
   //"https://devconnect-8fpj.onrender.com"//
 
   useEffect(() => {

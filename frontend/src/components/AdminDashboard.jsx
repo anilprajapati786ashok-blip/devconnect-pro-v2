@@ -1,7 +1,7 @@
 import React, { useEffect, useState, useCallback } from "react";
 import axios from "axios";
 
-const API = "http://localhost:5000";
+const API = "https://devconnect-pro-v2.onrender.com";
 
 function AdminDashboard({ userId }) {
   const [data, setData] = useState(null);
