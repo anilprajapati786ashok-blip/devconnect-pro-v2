@@ -13,11 +13,8 @@
 
 ---
 
-<!-- 
-  📸 SCREENSHOT PLACEMENT: Hero banner/landing page of the app (full width)
-  Suggested dimensions: 1280 × 640px
-  Label it something like: "DevConnect Pro — Landing Page"
--->
+<img width="1889" height="911" alt="image" src="https://github.com/user-attachments/assets/4224d435-397e-467d-8a9c-eadb22c6b666" />
+
 
 > Most job platforms treat your resume like a PDF and your skills like a checkbox.  
 > We don't do that here.
@@ -31,20 +28,16 @@ DevConnect Pro is a full-stack career platform built for developers — combinin
 ### 🧠 AI Resume Analyzer
 Drop your resume in. Get real feedback — not the generic "use action verbs" type. The AI reads between the lines and tells you what's missing, what's weak, and what's actually working.
 
-<!-- 
-  📸 SCREENSHOT PLACEMENT: Resume analyzer page — show the upload area + feedback panel side by side
-  Suggested: 1100 × 580px
--->
+
+<img width="1872" height="885" alt="image" src="https://github.com/user-attachments/assets/e4c1d497-c8f5-48dd-aef8-529fef3c5a7a" />
 
 ---
 
 ### ✍️ Improved Resume Generator
 Once you know what's wrong, fix it. The generator takes your input and turns it into a polished, ATS-friendly resume — structured and clean, not a template nightmare.
 
-<!-- 
-  📸 SCREENSHOT PLACEMENT: Resume generator output view — show the before/after or the generated resume preview
-  Suggested: 1100 × 620px
--->
+
+<img width="1116" height="893" alt="image" src="https://github.com/user-attachments/assets/f9da5a9e-6c5b-4309-a69e-73f0a8863c03" />
 
 ---
 
@@ -68,14 +61,12 @@ Pick a company track and a role. Currently available:
 
 | Mode | What to expect |
 |------|----------------|
-| `Easy` | Conceptual and foundational questions |
-| `Medium` | Applied problems, some system design |
-| `Strict` | Pressure, edge cases, back-to-back follow-ups |
+| `Friendly ` | Conceptual and foundational questions |
+| `Strict` | Applied problems, some system design |
+| `Mentor` | Pressure, edge cases, back-to-back follow-ups |
 
-<!-- 
-  📸 SCREENSHOT PLACEMENT: Interview screen — show the question display + answer input + difficulty selector UI
-  Suggested: 1100 × 600px
--->
+
+<img width="1686" height="899" alt="image" src="https://github.com/user-attachments/assets/6f53e731-1bb7-4fd1-92f2-d043bc1ff874" />
 
 ---
 
@@ -85,10 +76,9 @@ The interview doesn't follow a script. Your answers shape what comes next.
 
 If you're breezing through, it pushes harder. If you're struggling, it adjusts. The difficulty adapts in real-time based on your performance — so every session is actually calibrated to you, not some average candidate.
 
-<!-- 
-  📸 SCREENSHOT PLACEMENT: Show the adaptive flow — maybe an annotated diagram or a sequence of questions getting harder/easier
-  Suggested: 900 × 500px or an illustrated diagram
--->
+
+<img width="1879" height="923" alt="image" src="https://github.com/user-attachments/assets/b33f2e84-7876-4c2c-96ca-6d0c4d629174" />
+
 
 ---
 
@@ -98,10 +88,12 @@ Add your projects. Describe what you built and what you used. It's then part of 
 
 No design skills needed. Just your work.
 
-<!-- 
-  📸 SCREENSHOT PLACEMENT: Portfolio section — show a filled-out project card or the builder form + preview
-  Suggested: 1100 × 560px
--->
+
+<img width="1855" height="887" alt="image" src="https://github.com/user-attachments/assets/1372ad3c-0e03-471b-be8a-691227cfa172" />
+
+
+<img width="1155" height="726" alt="image" src="https://github.com/user-attachments/assets/5e2b2531-7cce-46c0-b615-dbd026658bf2" />
+
 
 ---
 
@@ -151,6 +143,6 @@ Two people who got tired of bad job platforms and decided to build a better one.
 
 <div align="center">
 
-*if this helped you land something, drop a ⭐ — it genuinely means a lot*
+*if this helped you land something, drop a ⭐: it genuinely means a lot*
 
 </div>
