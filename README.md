@@ -125,21 +125,13 @@ These are in the pipeline — not promises, but they're genuinely being worked o
 
 ---
 
-## getting started
+## it's live
 
-```bash
-# clone the repo
-git clone https://github.com/your-username/devconnect-pro.git
-cd devconnect-pro
+No setup. No cloning. Just open it.
 
-# install dependencies
-npm install
+🔗 **[devconnect-pro-v2.vercel.app](https://devconnect-pro-v2.vercel.app/)**
 
-# start the dev server
-npm run dev
-```
-
-> Make sure to set up your `.env` with the required API keys before running.
+Deployed on **Vercel** (frontend) and **Render** (backend) — fully up and running.
 
 ---
 
